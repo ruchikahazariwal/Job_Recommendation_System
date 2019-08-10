@@ -44,5 +44,6 @@ The Jaccard similarity index (sometimes called the Jaccard similarity coefficien
 ├── script.sh
 |   ├── to run the script
 ```
-
+## For Output
+Please run script.sh or script1.sh
 
